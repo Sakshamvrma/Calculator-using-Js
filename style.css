@@ -21,11 +21,10 @@ border-radius: 10px;
   padding: 6px 5px;
 }
 .inputdiv{
-  width: 400px;
-  height:70px;
+  
   border-radius: 10px;
   display: flex;
-  justify-content:flex-end;
+  justify-content:center;
   /* max-width: 40vw;
   min-height: 10vh; */
   background-color:#272829 ;
